@@ -1,0 +1,5 @@
+Name         Course          About GitHub 
+A.harika     Bsc             basics
+A.neelima    Bsc             basics
+S.tejaswini  Bsc             basics
+G.uma        Bsc             basics
